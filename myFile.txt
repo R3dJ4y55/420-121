@@ -1,2 +1,6 @@
 This is my file.
 This is a text file.
+
+
+Line 05
+Line not 6
