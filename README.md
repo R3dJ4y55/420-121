@@ -1,1 +1,1 @@
-(./my_txt_files/myFile.txt)
+!(./my_txt_files/myFile.txt)
